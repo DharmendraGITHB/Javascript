@@ -1,0 +1,13 @@
+4 ways to declare a javascript variable:
+
+using var
+using let
+using const
+using nothing
+
+var: is keyword used in all js code to 2015
+let and const: these keywords added in 2015
+
+the variable has no value is called undefined
+
+
