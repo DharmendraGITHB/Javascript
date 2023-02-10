@@ -1,4 +1,4 @@
-
+//using recursion to reverser the array
 
 
 function reverseArr(arr, start, end)
@@ -7,7 +7,7 @@ function reverseArr(arr, start, end)
    arr[end] = arr[start];
    arr[start] = temp;
 
-   if( start+1 < end-1){
+   if( start+1 < end-1){            //here we checking indices not the values/element
    	reverseArr(arr, start+1, end-1);
 
 
