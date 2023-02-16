@@ -1,5 +1,5 @@
 function palindrome(str) {
-	let val = ""
+	let val = 0
 
 	for (let i = str.length-1; i>=0; i--) {
 		val += str[i]
@@ -14,7 +14,7 @@ function palindrome(str) {
 }
 	
 
-let result = palindrome("hello")
+let result = palindrome(121)
 
 console.log(result)
 
