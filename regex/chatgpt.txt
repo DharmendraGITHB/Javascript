@@ -1,0 +1,11 @@
+Question - How does ChatGPT get such a large amount of data? explain in detail.
+
+chatgpt - ChatGPT is a large language model developed by OpenAI, and it was trained on a massive amount of data to achieve its impressive capabilities. Specifically, ChatGPT was trained using a technique called unsupervised learning, which means it learned to predict patterns in the data without any explicit labels or guidance.
+
+The data used to train ChatGPT came from a variety of sources, including web pages, books, scientific papers, and other text sources. The data was preprocessed to clean and tokenize the text, which involves breaking the text into individual words and removing any unnecessary characters or formatting.
+
+Once the data was preprocessed, it was fed into a deep neural network that was specifically designed to learn patterns in language. The neural network used a technique called attention, which allows it to focus on different parts of the text as it processes it. This helps the model to learn the relationships between different words and the context in which they are used.
+
+The training process for ChatGPT was extremely computationally intensive and required a large amount of computing power. OpenAI used a combination of CPU and GPU clusters to train the model, with the training process taking several weeks to complete.
+
+Overall, the amount of data used to train ChatGPT was a key factor in its success. By exposing the model to a wide range of language patterns and contexts, it was able to learn to generate human-like responses to a variety of prompts and questions.
